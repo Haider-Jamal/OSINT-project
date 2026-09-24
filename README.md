@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-A passive OSINT assessment was performed to map the external attack surface of a redacted telecom provider in Pakistan. Only publicly available, passive data sources were used.
+A passive OSINT assessment was performed to map the external attack surface of a redacted telecom provider. Only publicly available, passive data sources were used.
 
 ### Key numbers
 
