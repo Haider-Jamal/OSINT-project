@@ -2,32 +2,6 @@
 
 > **Disclaimer:** This repository contains a sanitized, redacted summary of a passive OSINT assessment. All sensitive identifiers — domains, subdomains, IP addresses, ASNs, vendor names, and screenshots — have been removed or replaced. No active scanning, brute-forcing, exploitation, denial-of-service, or authentication attempts were performed against any live system. This is not a formal responsible-disclosure submission unless explicitly authorized by the asset owner.
 
----
-
-## Authorization
-
-This assessment was conducted only after obtaining explicit written authorization from the asset owner.
-
-- **Authorized by:** [Name, Role]
-- **Authorization date:** [YYYY-MM-DD]
-- **Authorization reference:** [Ticket / Contract / Email ID]
-- **Target scope:** [REDACTED]
-- **Rules of engagement:**
-  - Passive OSINT only
-  - No active network scanning
-  - No directory brute-forcing
-  - No credential or login attempts
-  - No exploitation or payload delivery
-  - No interaction beyond a single standard HTTP GET where necessary
-- **Data handling:**
-  - Raw evidence stored privately
-  - Public repository contains only redacted data
-  - Sensitive findings reported privately to the asset owner before any publication
-
-If you do not have written authorization, do not replicate this work against third-party systems.
-
----
-
 ## Executive Summary
 
 A passive OSINT assessment was performed to map the external attack surface of a redacted telecom provider in Pakistan. Only publicly available, passive data sources were used.
@@ -195,9 +169,9 @@ OSINT-project/
 │   └── redacted-diagrams/
 └── .gitignore
 
-##Disclaimer
 
-This project is not affiliated with, endorsed by, or sponsored by any organization mentioned in the private raw report. All information published here is redacted and intended for defensive security education only. No warranty is provided. Use responsibly and only with proper authorization.
+
+
 
 
 
